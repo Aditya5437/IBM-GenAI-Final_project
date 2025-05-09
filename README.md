@@ -41,7 +41,7 @@ Training Epochs: 100 (can be tuned for more or number)
 
 Clone using:
 
-git clone https://github.com/your-username/next-sentence-prediction-lstm.git
+git clone https://github.com/Aditya5437/next-sentence-prediction-lstm.git
 
 
 Required Libraries:
